@@ -5,6 +5,7 @@ Intro (2-4 min)
 * who am I?
 * why am I here?
 * about what are we talking?
+* what is happening?
 
 The Problem (2-4 min)
 ---------------------
