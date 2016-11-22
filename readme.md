@@ -4,21 +4,21 @@ Intro (2-4 min)
 ---------------
 * who am I?
 * why am I here?
-* what are we talking about?
+* about what are we talking?
 
-The Problem (1-3 min)
+The Problem (2-4 min)
 ---------------------
 * issues lost to the ether
 * feature creep
 * design holes
 
-The Solution (8-10 min)
+The Solution (6-8 min)
 -----------------------
 * agile practices
 * columns/task
 * github projects and other tools (Jira, Trello)
 
-The Implementation (12-17 min)
+The Implementation (12-15 min)
 ------------------------------
 * github projects demo
 * setting up columns
@@ -26,7 +26,14 @@ The Implementation (12-17 min)
 * convert notes to issues
 * assigning an issue
 
-Closing (1-3 min)
+Stretch Goals (if time allows)
+------------------------------
+* swim lanes
+* time estimates
+* rubber duckies
+* stand ups
+
+Closing (2-4 min)
 -----------------
 * Summary
 * Q & A
