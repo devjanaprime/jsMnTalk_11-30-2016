@@ -3,11 +3,13 @@
   <head>
     <meta charset="utf-8">
     <title>JS MN Talk 11-30-2016</title>
-    <script src="tester.js" charset="utf-8"></script>
+    <script src="scripts/jsMnTalk.js" charset="utf-8"></script>
+    <link rel="stylesheet" href="styles/dumbStyle.css">
   </head>
-  <body onload="updateView();">
-    <h1>JS MN Talk 11-30-2016</h1>
+  <body>
+    <h1 onclick='setDefaults();'>JS MN Talk 11-30-2016</h1>
     <h2 id='title' onclick="nextStage();"></h2>
     <p id='item' onclick="nextItem();"></p>
+    <p id='links'></p>
   </body>
 </html>

@@ -1,0 +1,20 @@
+h1 {
+  position: relative;
+  left: 2.5%;
+  font-family: arial;
+  font-size: 200%;
+}
+
+h2 {
+  position: relative;
+  left: 5%;
+  font-family: arial;
+  font-size: 150%;
+}
+
+p {
+  position: relative;
+  left: 5.5%;
+  font-family: arial;
+  font-size: 300%;
+}
