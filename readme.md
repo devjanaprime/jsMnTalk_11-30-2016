@@ -1,5 +1,12 @@
 JS MN Talk 11-30-2016
 =====================
+
+For my talk at JavaScript MN 11-30-2016: https://www.meetup.com/JavaScriptMN/events/232239161/
+
+Approx. 30-35 min if delivered correctly, this is the project I used for the presenation. In keeping with the audience, you'll find only vanilla JS within.
+
+Outline:
+========
 Intro (2-4 min)
 ---------------
 * who am I?
@@ -37,5 +44,9 @@ Stretch Goals (if time allows)
 Closing (2-4 min)
 -----------------
 * Summary
-* Q & A
-* Contact info
+* Retrospective
+* Contact 411/Thanks
+
+Estimated Min Time: 24 min
+Estimated Max Time: 35 min
+(no time allotted for stretch goals)
