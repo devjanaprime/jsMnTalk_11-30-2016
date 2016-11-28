@@ -9,7 +9,7 @@ var stages =[
   {
     title: 'Intro',
     items: [ 'who am I?', 'how did I get here?', 'why am I here?', 'what is happening?' ],
-    links: [ 'https://github.com/devjanaprime', 'http://devnari.com', 'https://primeacademy.io' ]
+    links: [ 'https://github.com/devjanaprime', 'http://devnari.com', 'http://devjana.net', 'https://primeacademy.io' ]
   },
   {
     title: 'The Problem',
