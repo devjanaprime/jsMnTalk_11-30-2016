@@ -3,7 +3,7 @@ JS MN Talk 11-30-2016
 
 For my talk at JavaScript MN 11-30-2016: https://www.meetup.com/JavaScriptMN/events/232239161/
 
-Approx. 30-35 min if delivered correctly, this is the project I used for the presenation. In keeping with the audience, you'll find only vanilla JS within.
+Approx. 30-35 min if delivered correctly, this is the project I used for the presentation. In keeping with the audience, you'll find only vanilla JS within.
 
 Outline:
 ========
