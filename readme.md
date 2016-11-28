@@ -25,30 +25,28 @@ The Solution (6-8 min)
 -----------------------
 * agile practices
 * scrum board: columns & tickets
+* defining a workflow
 * other scrum board tools (Jira-image credit:http://filehippo.com/web_jira/, Trello-image credit: http://www.programmableweb.com/news/improve-business-productivity-online-collaboration-platforms/2012/03/06)
 
-The Implementation (12-15 min)
+The Implementation (10-15 min)
 ------------------------------
 * github projects demo
-* setting up columns
-* include existing issue
-* convert notes to issues
-* assigning an issue
 
 Stretch Goals (if time allows)
 ------------------------------
+* stand ups
 * swim lanes
 * time estimates
-* rubber duckies
-* stand ups
+* mythical man month
 
-Closing (2-4 min)
+Closing (3-6 min)
 -----------------
 * Summary
 * Retrospective
-* Contact 411/Thanks
+* Next Steps
+* Thanks
 
-Estimated Min Time: 24 min
+Estimated Min Time: 22 min
 
 Estimated Max Time: 35 min
 

@@ -18,22 +18,22 @@ var stages =[
   },
   {
     title: 'The Solution',
-    items: [ 'agile practices', 'scrum board: columns & tickets', 'github projects and other tools (Jira, Trello)' ],
+    items: [ 'agile practices', 'scrum board: columns & tickets', 'defining a workflow', 'github projects and other tools (Jira, Trello)' ],
     links: [ 'https://en.wikipedia.org/wiki/Agile_management', 'https://help.github.com/articles/tracking-the-progress-of-your-work-with-projects/', 'https://www.atlassian.com/software/jira', 'https://trello.com/']
   },
   {
     title: 'The Implementation',
-    items: [ 'github projects demo', 'setting up columns', 'creating/adding existing issue', 'convert notes to issues', 'assigning an issue' ],
-    links: [ ]
+    items: [ 'github projects demo' ],
+    links: [ 'https://github.com/devjanaprime/githubProjectExample/projects/1']
   },
   {
     title: 'Stretch Goals',
-    items: [ 'swim lanes', 'time estimates & critical path', 'rubber duckies', 'stand ups' ],
+    items: [ 'swim lanes', 'time estimates & critical path', 'mythical man month', 'stand ups' ],
     links: [ 'https://en.wikipedia.org/wiki/Swim_lane', 'https://revisionworld.com/a2-level-level-revision/maths/decision-maths-0/critical-path-analysis', 'https://en.wikipedia.org/wiki/Rubber_duck_debugging', 'https://www.laserfiche.com/ecmblog/10-ways-to-make-stand-up-meetings-better-office-hack/']
   },
   {
     title: 'Closing',
-    items: [ 'Summary', 'Retrospective', 'Contact info', 'Thanks!' ],
+    items: [ 'summary', 'retrospective', 'next steps', 'Thanks!' ],
     links: [ 'http://devjana.net', 'https://twitter.com/devjana' ]
   },
 ];
