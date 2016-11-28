@@ -9,7 +9,7 @@ var stages =[
   {
     title: 'Intro',
     items: [ 'who am I?', 'how did I get here?', 'why am I here?', 'what is happening?' ],
-    links: [ 'http://devnari.com', 'https://primeacademy.io' ]
+    links: [ 'https://github.com/devjanaprime', 'http://devnari.com', 'https://primeacademy.io' ]
   },
   {
     title: 'The Problem',
@@ -18,7 +18,7 @@ var stages =[
   },
   {
     title: 'The Solution',
-    items: [ 'agile practices', 'columns/task', 'github projects and other tools (Jira, Trello)' ],
+    items: [ 'agile practices', 'scrum board: columns & tickets', 'github projects and other tools (Jira, Trello)' ],
     links: [ 'https://en.wikipedia.org/wiki/Agile_management', 'https://help.github.com/articles/tracking-the-progress-of-your-work-with-projects/', 'https://www.atlassian.com/software/jira', 'https://trello.com/']
   },
   {

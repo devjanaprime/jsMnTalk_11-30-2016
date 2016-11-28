@@ -17,14 +17,15 @@ Intro (2-4 min)
 The Problem (2-4 min)
 ---------------------
 * issues lost to the ether
-* feature creep
-* design holes
+* feature creep (http://www.radiohead.com/)
+* design holes (image credit: http://pics-about-space.com/)
+* big ball of mud (image credit: https://tommcfarlin.com/design-patterns-for-refactoring-facade/)
 
 The Solution (6-8 min)
 -----------------------
 * agile practices
-* columns/task
-* github projects and other tools (Jira, Trello)
+* scrum board: columns & tickets
+* other scrum board tools (Jira-image credit:http://filehippo.com/web_jira/, Trello-image credit: http://www.programmableweb.com/news/improve-business-productivity-online-collaboration-platforms/2012/03/06) 
 
 The Implementation (12-15 min)
 ------------------------------
