@@ -25,7 +25,7 @@ The Solution (6-8 min)
 -----------------------
 * agile practices
 * scrum board: columns & tickets
-* other scrum board tools (Jira-image credit:http://filehippo.com/web_jira/, Trello-image credit: http://www.programmableweb.com/news/improve-business-productivity-online-collaboration-platforms/2012/03/06) 
+* other scrum board tools (Jira-image credit:http://filehippo.com/web_jira/, Trello-image credit: http://www.programmableweb.com/news/improve-business-productivity-online-collaboration-platforms/2012/03/06)
 
 The Implementation (12-15 min)
 ------------------------------
@@ -49,5 +49,7 @@ Closing (2-4 min)
 * Contact 411/Thanks
 
 Estimated Min Time: 24 min
+
 Estimated Max Time: 35 min
-(no time allotted for stretch goals)
+
+Note: no time allotted for stretch goals
