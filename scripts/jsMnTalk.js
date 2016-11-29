@@ -28,7 +28,7 @@ var stages =[
   },
   {
     title: 'Stretch Goals',
-    items: [ 'swim lanes', 'time estimates & critical path', 'mythical man month', 'stand ups' ],
+    items: [ 'stand ups', 'swim lanes', 'PERT charts & critical path', 'mythical man month' ],
     links: [ 'https://en.wikipedia.org/wiki/Swim_lane', 'https://revisionworld.com/a2-level-level-revision/maths/decision-maths-0/critical-path-analysis', 'https://en.wikipedia.org/wiki/Rubber_duck_debugging', 'https://www.laserfiche.com/ecmblog/10-ways-to-make-stand-up-meetings-better-office-hack/']
   },
   {
