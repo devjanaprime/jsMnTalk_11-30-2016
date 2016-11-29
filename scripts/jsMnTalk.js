@@ -33,7 +33,7 @@ var stages =[
   },
   {
     title: 'Closing',
-    items: [ 'summary', 'retrospective', 'next steps', 'Thanks!' ],
+    items: [ 'summary', 'retrospective', 'what\'s next', 'Thanks!' ],
     links: [ 'http://devjana.net', 'https://twitter.com/devjana' ]
   },
 ];

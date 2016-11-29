@@ -42,9 +42,9 @@ Stretch Goals (if time allows)
 Closing (3-6 min)
 -----------------
 * Summary
-* Retrospective
-* Next Steps
-* Thanks
+* Retrospective (image credit: http://cmforagile.blogspot.com/2013/07/what-happens-in-retrospective-stays-in.html)
+* What's Next (http://memory-alpha.wikia.com/wiki/Star_Trek:_The_Next_Generation)
+* Thanks (http://blog.beastieboys.com/)
 
 Estimated Min Time: 22 min
 
