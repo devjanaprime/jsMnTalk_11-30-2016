@@ -24,7 +24,7 @@ var stages =[
   {
     title: 'The Implementation',
     items: [ 'github projects demo' ],
-    links: [ 'https://github.com/devjanaprime/githubProjectExample/projects/1']
+    links: [ 'https://github.com/devjanaprime/jsMnTalk_11-30-2016']
   },
   {
     title: 'Stretch Goals',
